@@ -5,12 +5,13 @@ import { initializeApp } from 'firebase/app';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
-  authDomain: 'mern-estate.firebaseapp.com',
-  projectId: 'mern-estate',
-  storageBucket: 'mern-estate.appspot.com',
-  messagingSenderId: '1078482850952',
-  appId: '1:1078482850952:web:28f19139ab77246602fb3d',
+  apiKey: "AIzaSyBK1qBZOP8PjFBZxJ0PY8NU1YKmXoRSJWQ",
+  authDomain: "profound-photon-419413.firebaseapp.com",
+  projectId: "profound-photon-419413",
+  storageBucket: "profound-photon-419413.appspot.com",
+  messagingSenderId: "339306867983",
+  appId: "1:339306867983:web:7f803fda598f7ff4d6227a",
+  measurementId: "G-R54B4G74S5"
 };
 
 // Initialize Firebase
